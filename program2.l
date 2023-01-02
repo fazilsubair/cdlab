@@ -1,10 +1,4 @@
-; ALGORITHM:
 
-; Step 1. Start
-; Step 2. Read the input file/text
-; Step 3. Initialize the counters for characters, words, lines to zero Step 4. Scan the characters, words, lines and
-; Step 5. increment the respective counters Step 6. Display the counts
-; Step 7. Stop
 
 
 
@@ -35,3 +29,11 @@ return 1;
 ; flex <prgmname>.l
 ; gcc lex.yy.c
 ; ./a.out
+
+; ALGORITHM:
+
+; Step 1. Start
+; Step 2. Read the input file/text
+; Step 3. Initialize the counters for characters, words, lines to zero Step 4. Scan the characters, words, lines and
+; Step 5. increment the respective counters Step 6. Display the counts
+; Step 7. Stop
